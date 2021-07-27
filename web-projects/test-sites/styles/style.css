@@ -27,3 +27,9 @@ h1 {
     display: block;
     margin: 0 auto;
   }
+  button {
+    display: block;
+    margin: 5px auto;
+    color: rgb(51, 86, 161);
+    font-size: 15px;
+  }
