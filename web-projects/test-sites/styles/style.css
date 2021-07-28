@@ -1,22 +1,23 @@
 html {
     font-size: 10px; 
     font-family: "Open Sans", sans-serif;
-    background-color: #e6effc;
+    background-color: #fff2f7;
 }
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: #f5ece0;
+    background-color: #f2ecee;
     padding: 0 20px 20px 20px;
-    border: 5px solid rgb(155, 159, 161);
+    border: 5px solid #e6c3ce;
   }
 h1 {
-    font-size: 60px;
+    font-size: 46px;
+    font-weight: 600;
     text-align: center;
     margin: 0;
     padding: 20px 0;
-    color: rgb(51, 86, 161);
-    text-shadow: 3px 3px 1px rgb(155, 159, 161);
+    color: #19a596;
+    text-shadow: 3px 3px 1px #e6c3ce;
   }
   p, li {
     font-size: 16px;
@@ -30,6 +31,6 @@ h1 {
   button {
     display: block;
     margin: 5px auto;
-    color: rgb(51, 86, 161);
+    color: #19a596;
     font-size: 15px;
   }
